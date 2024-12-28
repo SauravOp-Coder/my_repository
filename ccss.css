@@ -106,4 +106,22 @@ input
 
     width: 300px;
 }
-
+footer
+ {
+    font-weight: 400;
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+  }
+  .header1
+  {
+    font-weight: 400;
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+  }
+  
